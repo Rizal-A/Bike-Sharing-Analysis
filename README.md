@@ -34,7 +34,11 @@ The number of bicycle rentals is strongly influenced by temperature, there is a 
 The dashboard shows the number of total users across the year and season. It also shows the difference casual users and registered users use of the bikesharing service, based day of the week.
 
 ### Run Streamlit on Local
-
+#### Setup environment
+```
+conda create --name main-ds python=3.9
+conda activate main-ds
+```
 #### Install Dependencies
 
 To install all the required libraries, open your terminal/command prompt, navigate to project folder, and run the following command:
