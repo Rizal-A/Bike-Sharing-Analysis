@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from millify import millify
 
-df = pd.read_csv("Bike-sharing-dataset/bike_day_clean.csv")
-df2 = pd.read_csv("Bike-sharing-dataset/bike_hour_clean.csv")
+df = pd.read_csv("data/bike_day_clean.csv")
+df2 = pd.read_csv("data/bike_hour_clean.csv")
 df["date_day"] = pd.to_datetime(df["date_day"])
 df2["date_day"] = pd.to_datetime(df2["date_day"])
 
