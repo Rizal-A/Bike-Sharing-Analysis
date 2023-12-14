@@ -29,7 +29,7 @@ The number of bicycle rentals is strongly influenced by temperature, there is a 
 ##  📟 Dashboard with Streamlit
 
 ### Streamlit Cloud
-⚠️ View the dashboard directly on this link: [dashboard](https://bikesharing-dashboard-pratwib.streamlit.app/)
+⚠️ View the dashboard directly on this link: [Bike Sharing Dashboard](https://bike-sharing-analysis-rizal.streamlit.app/)
 
 The dashboard shows the number of total users across the year and season. It also shows the difference casual users and registered users use of the bikesharing service, based day of the week.
 
