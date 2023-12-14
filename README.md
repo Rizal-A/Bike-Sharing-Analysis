@@ -2,7 +2,7 @@
 Dataset by: Capital Bikeshare
 
 ## 📓 Data Analysis with Jupyter Notebook
-See the detail of analysis and visualization on the [notebook](https://github.com/Rizal-A/Bike-Sharing-Analysis/blob/main/Data_Analysis_Bike_Rent.ipynb)
+See the detail of analysis and visualization on the [Bike Sharing Analysis](https://github.com/Rizal-A/Bike-Sharing-Analysis/blob/main/Data_Analysis_Bike_Rent.ipynb)
 
 ### Defining Business Question
 - How does Bike Sharing Rent compare between casual and registered types?
