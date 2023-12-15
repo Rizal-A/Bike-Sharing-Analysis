@@ -1,4 +1,6 @@
 # Bikesharing Data Analysis and Dashboard🚲
+
+This is Mini Project from Dicoding Indonesia Bootcamp about Bike Sharing Analysis
 Dataset by: Capital Bikeshare
 
 ## 📓 Data Analysis with Jupyter Notebook
