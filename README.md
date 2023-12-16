@@ -1,5 +1,8 @@
 # Bikesharing Data Analysis and Dashboard🚲
 
+![New Project](https://github.com/Rizal-A/Bike-Sharing-Analysis/assets/117552819/2e4d583a-13a6-4579-ad18-2fbe2f986450)
+
+
 This is Mini Project from Dicoding Indonesia Bootcamp about Bike Sharing Analysis
 
 Dataset: Capital Bikeshare
